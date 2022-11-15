@@ -4,7 +4,7 @@ Repository for Documents pertaining to The Government and Research Education Net
 The goal of the Gov/REN team is to coordinate engagement with the Federal Government and Educational Institutions.
 
 # Gov/REN Team Members
-Ryan Coffee - Gov/RENB lead - Stanford/SLAC - coffee@slac.stanford.edu
+Ryan Coffee - Gov/REN lead - Stanford/SLAC - coffee@slac.stanford.edu
 Omar Quijano - Stanford/SLAC  
 Bill Wright - Red Hat
 Ben Cushing - Red Hat
